@@ -1,0 +1,15 @@
+li{
+    background-color: rgb(154, 116, 116);
+    color: #fff;
+    padding: 8px 20px;
+    border-radius: 5px;
+    margin: 10px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
